@@ -112,6 +112,7 @@ C:\Users\Nihad Mandzo\Desktop\DatingApp\DatingApp\API\obj\Debug\net8.0\API.Assem
 C:\Users\Nihad Mandzo\Desktop\DatingApp\DatingApp\API\obj\Debug\net8.0\API.AssemblyInfo.cs
 C:\Users\Nihad Mandzo\Desktop\DatingApp\DatingApp\API\obj\Debug\net8.0\API.csproj.CoreCompileInputs.cache
 C:\Users\Nihad Mandzo\Desktop\DatingApp\DatingApp\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nihad Mandzo\Desktop\DatingApp\DatingApp\API\obj\Debug\net8.0\API.sourcelink.json
 C:\Users\Nihad Mandzo\Desktop\DatingApp\DatingApp\API\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Nihad Mandzo\Desktop\DatingApp\DatingApp\API\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\Nihad Mandzo\Desktop\DatingApp\DatingApp\API\obj\Debug\net8.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
