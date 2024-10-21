@@ -6,7 +6,9 @@ C:\Users\Nihad Mandzo\Desktop\DatingApp\DatingApp\API\bin\Debug\net8.0\API.runti
 C:\Users\Nihad Mandzo\Desktop\DatingApp\DatingApp\API\bin\Debug\net8.0\API.dll
 C:\Users\Nihad Mandzo\Desktop\DatingApp\DatingApp\API\bin\Debug\net8.0\API.pdb
 C:\Users\Nihad Mandzo\Desktop\DatingApp\DatingApp\API\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Nihad Mandzo\Desktop\DatingApp\DatingApp\API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\Nihad Mandzo\Desktop\DatingApp\DatingApp\API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Nihad Mandzo\Desktop\DatingApp\DatingApp\API\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
 C:\Users\Nihad Mandzo\Desktop\DatingApp\DatingApp\API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
 C:\Users\Nihad Mandzo\Desktop\DatingApp\DatingApp\API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
 C:\Users\Nihad Mandzo\Desktop\DatingApp\DatingApp\API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
@@ -24,6 +26,12 @@ C:\Users\Nihad Mandzo\Desktop\DatingApp\DatingApp\API\bin\Debug\net8.0\Microsoft
 C:\Users\Nihad Mandzo\Desktop\DatingApp\DatingApp\API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
 C:\Users\Nihad Mandzo\Desktop\DatingApp\DatingApp\API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\Nihad Mandzo\Desktop\DatingApp\DatingApp\API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Nihad Mandzo\Desktop\DatingApp\DatingApp\API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Nihad Mandzo\Desktop\DatingApp\DatingApp\API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Nihad Mandzo\Desktop\DatingApp\DatingApp\API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Nihad Mandzo\Desktop\DatingApp\DatingApp\API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Nihad Mandzo\Desktop\DatingApp\DatingApp\API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Nihad Mandzo\Desktop\DatingApp\DatingApp\API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\Nihad Mandzo\Desktop\DatingApp\DatingApp\API\bin\Debug\net8.0\Mono.TextTemplating.dll
 C:\Users\Nihad Mandzo\Desktop\DatingApp\DatingApp\API\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
 C:\Users\Nihad Mandzo\Desktop\DatingApp\DatingApp\API\bin\Debug\net8.0\SQLitePCLRaw.core.dll
@@ -34,6 +42,7 @@ C:\Users\Nihad Mandzo\Desktop\DatingApp\DatingApp\API\bin\Debug\net8.0\System.Co
 C:\Users\Nihad Mandzo\Desktop\DatingApp\DatingApp\API\bin\Debug\net8.0\System.Composition.Hosting.dll
 C:\Users\Nihad Mandzo\Desktop\DatingApp\DatingApp\API\bin\Debug\net8.0\System.Composition.Runtime.dll
 C:\Users\Nihad Mandzo\Desktop\DatingApp\DatingApp\API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Nihad Mandzo\Desktop\DatingApp\DatingApp\API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\Nihad Mandzo\Desktop\DatingApp\DatingApp\API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
 C:\Users\Nihad Mandzo\Desktop\DatingApp\DatingApp\API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
 C:\Users\Nihad Mandzo\Desktop\DatingApp\DatingApp\API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
