@@ -14,6 +14,7 @@ import { HomeComponent } from "./home/home.component";
   styleUrl: './app.component.css'
 })
 export class AppComponent implements OnInit{
+  [x: string]: any;
   private accountService=inject(AccountService);
   
   ngOnInit(): void {
