@@ -2,6 +2,7 @@ using System;
 using API.Data;
 using API.Interfaces;
 using API.Services;
+using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.EntityFrameworkCore;
 
 namespace API.Extensions;

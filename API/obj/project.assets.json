@@ -2745,11 +2745,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nihad Mandzo\\Desktop\\DatingApp\\DatingApp\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\Nihad Mandzo\\Desktop\\DatingAppRefresh\\DatingApp-course\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\Nihad Mandzo\\Desktop\\DatingApp\\DatingApp\\API\\API.csproj",
+      "projectPath": "C:\\Users\\Nihad Mandzo\\Desktop\\DatingAppRefresh\\DatingApp-course\\API\\API.csproj",
       "packagesPath": "C:\\Users\\Nihad Mandzo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nihad Mandzo\\Desktop\\DatingApp\\DatingApp\\API\\obj\\",
+      "outputPath": "C:\\Users\\Nihad Mandzo\\Desktop\\DatingAppRefresh\\DatingApp-course\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
